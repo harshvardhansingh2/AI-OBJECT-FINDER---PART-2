@@ -6,7 +6,7 @@ function setup()
     canvas.center();
 
     video = createCapture(VIDEO);
-    video.size(300, 300);
+    video.size(480, 380);
     video.hide();
 }
 
